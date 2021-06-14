@@ -31,3 +31,9 @@ yalc.lock
 /compiledImplementationGuides/*
 !/compiledImplementationGuides/gitkeep
 /.webpack/
+
+
+##############################
+## R4 UK Core
+##############################
+/src/implementationGuides/UKCore.R4.STU.02.00.00/
